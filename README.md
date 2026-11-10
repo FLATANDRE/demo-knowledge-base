@@ -1,6 +1,6 @@
 # Projeto de demonstração — Base de conhecimento pessoal com OpenCode
 
-Starter usado no vídeo. A wiki é construída ao vivo pelo agente: este repositório contém apenas o estado inicial.
+A wiki é construída ao vivo pelo agente: este repositório contém apenas o estado inicial.
 
 ## Estado inicial
 
@@ -33,5 +33,3 @@ Abra a pasta `demo-knowledge-base/` como cofre no Obsidian (File → Open folder
 5. Modo estudo: "Quero estudar snapshots. Me teste antes de explicar."
 6. Revisão espaçada: `Revisão`
 7. Health-check e lint
-
-Durante a gravação, siga os prompts de `PROMPTS-DA-DEMO.md` e o roteiro completo em `roteiro-video-base-conhecimento.md`.
